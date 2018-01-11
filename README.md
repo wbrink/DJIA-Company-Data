@@ -16,4 +16,4 @@ Uses Quandl's API to gather data for the individual companies.
 * _Matplotlib & Seaborn_ - for plotting
 * _os_ - making directory
 * _datetime_ - for boolean indexing
-* Will need Jupyter Notebook to run script
+* _Jupyter Notebook_ - to run script
